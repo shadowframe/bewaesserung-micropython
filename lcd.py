@@ -10,9 +10,7 @@ menu_list = ['sensoren',
              'sensor 1',
              'sensor 2',
              'sensor 3',
-             'sensor 4',
-             'sensor 5',
-             'sensor 6'
+             'sensor 4'
              ]
 sensor_1 = 40
 sensor_2 = 30
