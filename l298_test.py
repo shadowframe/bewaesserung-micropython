@@ -1,7 +1,5 @@
-from machine import UART
 from l298 import DCMotor
 from machine import Pin, PWM
-from time import sleep
 import time
 
 # motor left
